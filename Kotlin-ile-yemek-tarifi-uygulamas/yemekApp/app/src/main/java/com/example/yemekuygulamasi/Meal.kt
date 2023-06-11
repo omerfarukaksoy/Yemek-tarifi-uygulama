@@ -1,0 +1,1 @@
+package com.example.yemekuygulamasidata class Meal(    val mealName: String,    val mealImgRes: Int,    val mealDescription: String)
